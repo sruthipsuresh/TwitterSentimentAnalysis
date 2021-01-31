@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
-Practice of Twitter Data Scraping using Twint and NLP Analysis
+Practice of Twitter Data Scraping using Twint and NLP Analysis.
 
 ## Documentation:
 ### Data Collection:
@@ -13,3 +13,11 @@ Practice of Twitter Data Scraping using Twint and NLP Analysis
 * Removed all Twitter characters/links from Tweet.
 * Data cleaning for NLP analysis.
 * Store cleaned data in clean.csv
+
+### Wordcloud Generation
+* Followed tutorial on datacamp.
+* Generated countplot.
+* Generated test wordcloud using only one tweet.
+* Combined all tweets in merged dataset for overall wordcloud.
+* Combine all tweets by username and generate separate wordclouds.
+* Save in images folder.
