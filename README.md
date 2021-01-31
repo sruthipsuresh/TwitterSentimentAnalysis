@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 Practice of Twitter Data Scraping using Twint and NLP Analysis.
-Inspired by this [article](https://towardsdatascience.com/understanding-political-twitter-ce3476a38377), generated individual wordclouds for AOC, Pete Pete Buttigieg, Ted Cruz and Ben Shapiro in images folder.
+Inspired by this [article](https://towardsdatascience.com/understanding-political-twitter-ce3476a38377), generated individual wordclouds for AOC, Pete Pete Buttigieg, Ted Cruz and Ben Shapiro in images folder. Also made subjectivity/polarity analysis and plotted in seaborn scatterplot.
 
 ## Documentation:
 ### Data Collection:
@@ -22,3 +22,9 @@ Inspired by this [article](https://towardsdatascience.com/understanding-politica
 * Combined all tweets in merged dataset for overall wordcloud.
 * Combine all tweets by username and generate separate wordclouds.
 * Save in images folder.
+
+### Working with Textblob
+* Use dataset which is only processed to remove Twitter tags.
+* Add polarity and subjectivity columns with Textblob.
+* Simple plot with username used as hue.
+
