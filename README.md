@@ -12,3 +12,4 @@ Practice of Twitter Data Scraping using Twint and NLP Analysis
 * Subsetted to username, tweet text.
 * Removed all Twitter characters/links from Tweet.
 * Data cleaning for NLP analysis.
+* Store cleaned data in clean.csv
