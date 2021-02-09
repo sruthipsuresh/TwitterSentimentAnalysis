@@ -1,4 +1,4 @@
-# TwitterSentimentAnalysis
+# Twitter Sentiment Analysis
 Practice of Twitter Data Scraping using Twint and NLP Analysis
 
 ## Documentation:
