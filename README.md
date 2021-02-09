@@ -4,14 +4,14 @@ Practice of Twitter Data Scraping using Twint and NLP Analysis.
 Inspired by this [article](https://towardsdatascience.com/understanding-political-twitter-ce3476a38377), generated individual wordclouds for AOC, Pete Pete Buttigieg, Ted Cruz and Ben Shapiro in images folder. Also made subjectivity/polarity analysis and plotted in seaborn scatterplot.
 
 ### Examples of Images Generated
-See the wordcloud generated for AOC from her Tweets so far in 2021!
 ![overall](https://github.com/sruthipsuresh/TwitterSentimentAnalysis/blob/main/images/aoc.png?raw=true)
+See the wordcloud generated for AOC from her Tweets so far in 2021!
 
-See the wordcloud generated for Pete Buttigieg from his Tweets so far in 2021!
 ![overall](https://github.com/sruthipsuresh/TwitterSentimentAnalysis/blob/main/images/buttigieg.png?raw=true)
+See the wordcloud generated for Pete Buttigieg from his Tweets so far in 2021!
 
-See the polarity vs. subjectivity scatterplot of all the users listed above!
 ![overall](https://github.com/sruthipsuresh/TwitterSentimentAnalysis/blob/main/images/polvssub.png?raw=true)
+See the polarity vs. subjectivity scatterplot of all the users listed above!
 
 
 ## Documentation:
