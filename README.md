@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 Practice of Twitter Data Scraping using Twint and NLP Analysis.
-Inspired by https://towardsdatascience.com/understanding-political-twitter-ce3476a38377, generated individual wordclouds for AOC, Pete Pete Buttigieg, Ted Cruz and Ben Shapiro in images folder.
+Inspired by this [article](https://towardsdatascience.com/understanding-political-twitter-ce3476a38377), generated individual wordclouds for AOC, Pete Pete Buttigieg, Ted Cruz and Ben Shapiro in images folder.
 
 ## Documentation:
 ### Data Collection:
