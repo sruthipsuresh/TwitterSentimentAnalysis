@@ -1,2 +1,2 @@
 # TwitterSentimentAnalysis
-Practice of Twitter Data Scraping using Twint and NLP Analysis
+Practice of Twitter Data Scraping using Tweepy and NLP Analysis
